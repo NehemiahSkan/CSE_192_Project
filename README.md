@@ -132,7 +132,7 @@ For the most part, the project was a process. I started with the idea of a simpl
 
 ### Code
 
-The complete code for this project is available at [https://github.com/NehemiahSkan/CSE_192_Project](https://github.com/NehemiahSkan/CSE_192_Project).
+The complete code for this project is available at [CNN_SVM_Exploration](/CNN_SVM_Exploration.ipynb).
 
 ## References
 
