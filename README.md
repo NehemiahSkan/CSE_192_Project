@@ -115,13 +115,13 @@ Accuracy is used as a metric to evaluate the performance of the CNN, SVM, and co
 
 ### Plots
 
-![Confusion Matrix](confusion_matrix.png)  
+![Confusion Matrix](/images/confusion_matrix.png)  
 *Confusion matrix heatmap showing true vs. predicted classifications.*
 
-![Precision and Recall](precision_recall.png)  
+![Precision and Recall](/images/precision_recall.png)  
 *Precision and recall bar chart by class.*
 
-![F1 Score](f1_score.png)  
+![F1 Score](/images/f1_score.png)  
 *F1-score bar chart by class.*
 
 ## Conclusion
